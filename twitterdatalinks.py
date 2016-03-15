@@ -6,7 +6,8 @@
 #
 # The purpose of the exercise was to create a program to find out links between different Twitter tweets and users (f.ex. how many users
 # are between chosen users, or a chosen user and a hashtag, in shortest possible connection lists).
-# The exercise also included collecting the data by using Twitter's API, but it is not included in this file. This piece of program reads that collected json-data and saves the relevant data in data structures.
+# The exercise also included collecting the data by using Twitter's API, but it is not included in this file.
+# This piece of program reads that collected json-data and saves the relevant data in data structures.
 # Then it finds the links the user asks for.
 #
 # The algorithm used in the breadth-first search is from the material:
